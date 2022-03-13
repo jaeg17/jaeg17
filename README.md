@@ -11,9 +11,9 @@
 <div align='Left'>
   <div align='center'>
     <img
-      src='https://tenor.com/view/anime-wave-hello-cute-scarf-gif-19148104'
-      width='280'
-      height='270'
+      src='https://c.tenor.com/FvthnLepGgAAAAAM/hi-hello.gif'
+      width='310'
+      height='280'
     />
   </div>
 
