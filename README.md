@@ -11,9 +11,9 @@
 <div align='Left'>
   <div align='center'>
     <img
-      src='https://tenor.com/view/kuroha-shida-kuroha-shida-wave-hello-gif-22215690'
-      width='290'
-      height='275'
+      src='https://tenor.com/view/anime-wave-hello-cute-scarf-gif-19148104'
+      width='280'
+      height='270'
     />
   </div>
 
