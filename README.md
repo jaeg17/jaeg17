@@ -8,6 +8,7 @@
 
 - 📫 How to reach me **Discord jaeg1710177 est { }#3616**
 
+<h3>Statistical Data</h3>
 
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaeg17&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
