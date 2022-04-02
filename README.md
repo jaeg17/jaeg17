@@ -1,4 +1,5 @@
 <h1 align="center">Hey!!! 👋, I'm Jaeg17</h1>
+<h2> About Me </h2> 
 
 - 🔭 I’m currently working on **a discord bot.**
 
