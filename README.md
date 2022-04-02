@@ -1,8 +1,9 @@
 <h1 align="center">Hey!!! 👋, I'm Jaeg17</h1>
-<h2> About Me <img src='img.png'
-      width='30'
-      height='30'
-    /> </h2>
+<h2> About Me </H2>
+<img src='img.png'
+      width='100'
+      height='100'
+    /> 
 
 - 🔭 I’m currently working on **a discord bot.**
 
