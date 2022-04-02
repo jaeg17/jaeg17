@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **Discord jaeg1710177 est { }#3616**
 
-
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Jaeg17)
-
-
 <h3>Statistical Data</h3>
 
 <div align="left">
