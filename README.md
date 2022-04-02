@@ -1,9 +1,8 @@
 <h1 align="center">Hey!!! 👋, I'm Jaeg17</h1>
-<h2> About Me </h2> 
-<img src='https://www.pinterest.com/pin/234398355591142282/sent/?invite_code=c76f21a7e00d4b49b9735cbb5ff48555&sfo=1'
-      width='120'
-      height='120'
-    />
+<h2> About Me <img src='img.png'
+      width='30'
+      height='30'
+    /> </h2>
 
 - 🔭 I’m currently working on **a discord bot.**
 
