@@ -5,13 +5,17 @@
       height='100'
     /> 
 
-- 🔭 I’m currently working on **a discord bot.**
+- 🔭 I’m currently working on **discord bot.**
 
 - 🌱 I’m currently learning **Python.**
 
 - 💬 Ask me about **anything.**
 
 - 📫 How to reach me **Discord jaeg1710177 est { }#3616**
+
+
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Jaeg17)
+
 
 <h3>Statistical Data</h3>
 
