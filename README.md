@@ -11,9 +11,7 @@
 <h3>Statistical Data</h3>
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaeg17&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
-alt="Github streaks">
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeg17&theme=dark&stroke=000background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="jaeg17" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeg17&count_private=true&show_icons=true&theme=dark" alt="jaeg17" /></p>
 
 <h3 align="Center">Languages and Tools:</h3>
