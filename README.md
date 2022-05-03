@@ -1,5 +1,6 @@
 ## 📄 About Me
 Hey there! 👋
+
 I'm jaeg17, a developer who is currently learning Web Development and other programming languages. Developer at [Bear](https://github.com/Bear-Discord) and inserted in making discord bots.
 
 ## 🖥️ Language and Tools
