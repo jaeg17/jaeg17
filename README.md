@@ -1,5 +1,5 @@
 ## 📄 About Me
-Hey there! 👋
+Hey there! 
 
 I'm jaeg17, a developer who is currently learning Web Development and programming languages. Developer at Akari and inserted in making discord bots.
 
